@@ -1,0 +1,126 @@
+body 
+{
+	background-color: white;
+	            font-family: '';
+            font-style: normal;
+            font-size: 13px;
+}
+
+.container {
+    position: relative;
+    color: white;
+	font-family: Open sans;
+	text-align: center;
+	font-size: 50px;
+}
+.centered {
+	padding-top: px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.logo
+{
+	position: absolute;
+	border-radius: 50%;
+	top: 20%;
+	left: 45%;
+	width: 150px;
+	height: 150px;
+}
+.square {
+	border-radius: 10px;
+	position: absolute;
+    width: 350px;
+    height: 200px;
+    background: white;
+    bottom: 1%;
+    left: 38%;
+}
+.zip_code
+{
+	box-shadow: none;
+	border-color: white;
+	position: absolute;
+	left: 40.5%;
+	bottom: 15%;
+	background: white;
+	width: 280px;
+	height: 40px;
+}
+.kollaj
+{
+	position: absolute;
+	bottom: 1%;
+	width: 350px;
+	height: 100px;
+	left: 38%;
+}	
+.button_pm
+{
+	font-size: 20px;
+	box-shadow: none;
+	position: absolute;
+	left: 43%;
+	background-color: #4169e1;
+	border-color: white;
+	color: white;
+	width: 200px;
+	height: 70px;
+}
+.blok_2
+{
+	position: absolute;
+	top: 60%;
+	;
+}
+.zagolovok
+{
+	top: 960px;
+	position: absolute;
+	font-family: Open Sans;
+	font-size: 26px;
+}
+.text
+{ 
+	position: absolute;
+	font-family: Open Sans;
+	font-size: 14px;
+	top: 1000px;
+}
+.smart
+{
+	position: absolute;
+	top: 1200px;
+	left: 45%;
+}
+.zagolovok_text
+{
+	font-family: Open Sans;
+	font-size: 26px;
+}
+.text_osn
+ {	
+	
+	font-family: Open Sans;
+	font-size: 20px;;
+}
+.laptop
+{
+	position: absolute;
+	top: 2200px;
+	left: 45%;
+	width: 150px;
+	height: 150px;
+	left:25% ;
+}
+.zelen
+{
+	left: 20%;
+}
+.map {
+    padding: 40px 0;
+    text-align: center;
+  
+}
